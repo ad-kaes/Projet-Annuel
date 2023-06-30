@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>TO DO PA</p>
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Sécurité des accès en HTTPS et HTTP/2 ou 3</li>
