@@ -18,7 +18,7 @@ TO DO PA
  - [ ] Tester l'accès au site web depuis la DMZ en local	
  - [ ] Déclarer le réseau Wi-Fi Invité sur chaque site avec DHCP
 
-
+![Enter-image-description](/imgs/2023-07-12/H9cuXHTRgMiQ3IPB.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDcxNzM2M119
+eyJoaXN0b3J5IjpbMjU3ODA1MDZdfQ==
 -->
